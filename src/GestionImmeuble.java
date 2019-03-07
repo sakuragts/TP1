@@ -1,7 +1,7 @@
 /*
     INF1120-10
     Nom: Ingrid Blemur
-    Code permanent: BLEI08547903
+
  */
 
 public class GestionImmeuble {
